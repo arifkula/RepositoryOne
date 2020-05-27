@@ -1,4 +1,4 @@
 # projectOne
-ilk deneme projesi
+ilk deneme Repository 
 
-Bu proje deneme amaçlı yaratılmış olup sadece test denemeleri yapılacaktır. yüklenen dosyalar tamamanen deneme amaçlı olup doğrulukları ve çalışmaları beklenmememktedir
+Bu Repository  deneme amaçlı yaratılmış olup sadece test denemeleri yapılacaktır. yüklenen dosyalar tamamanen deneme amaçlı olup doğrulukları ve çalışmaları beklenmememktedir
